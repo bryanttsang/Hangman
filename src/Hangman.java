@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class BTsangLib {
-
+public class Hangman 
+{
     public static void main(String[] args)
     {
         System.out.println("Player 1, enter a word.");
